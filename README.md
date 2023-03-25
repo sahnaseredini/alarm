@@ -4,8 +4,11 @@ This repo contains the code accompanying the paper
 
 >  ALARM: Active LeArning of Rowhammer Mitigations
 
-by  Amir Naseredini, Martin Berger, Matteo Sammartino and Shale Xiong.
-The paper was publication at [HASP 2022](https://haspworkshop.org/2022/index.html), and is available at https://arxiv.org/abs/2211.16942
+by [Amir Naseredini](https://sahnaseredini.github.io/), [Martin
+Berger](https://martinfriedrichberger.net/), [Matteo Sammartino](https://matteosammartino.com/) and
+[Shale Xiong](http://www.shalexiong.com/).  The paper was published at [HASP
+2022](https://haspworkshop.org/2022/index.html), and is available at
+https://arxiv.org/abs/2211.16942
 
 ## How to build and run
 The code is using `make` and Maven (https://maven.apache.org/). In order to run ALARM, you'll need to 

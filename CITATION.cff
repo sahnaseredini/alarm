@@ -4,12 +4,12 @@ authors:
 - family-names: "Naseredini"
   given-names: "Amir"
   orcid: ""
-- family-names: "Sammartino"
-  given-names: "Matteo"
-  orcid: ""
 - family-names: "Berger"
   given-names: "Martin"
   orcid: "https://orcid.org/0000-0003-3239-5812"
+- family-names: "Sammartino"
+  given-names: "Matteo"
+  orcid: ""
 - family-names: "Xiong"
   given-names: "Shale"
   orcid: ""
@@ -17,5 +17,5 @@ title: "ALARM: Active LeArning of Rowhammer Mitigations"
 version: 1.0.0
 doi: 10.1145/3569562.3569
 date-released: TBC
-url: "https://github.com/sahnaseredini/rhul_team_repo"
+url: "https://github.com/sahnaseredini/alarm"
 

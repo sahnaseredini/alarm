@@ -1,4 +1,4 @@
-# ALARM: Active LeArning Rowhammer Mitigations
+# ALARM Codebase
 
 This repo contains the code accompanying the paper
 

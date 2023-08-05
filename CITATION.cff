@@ -13,7 +13,7 @@ authors:
 - family-names: "Xiong"
   given-names: "Shale"
   orcid: ""
-title: "ALARM: Active LeArning of Rowhammer Mitigations"
+title: "ALARM Codebase"
 version: 1.0.0
 doi: 10.1145/3569562.3569
 date-released: TBC
